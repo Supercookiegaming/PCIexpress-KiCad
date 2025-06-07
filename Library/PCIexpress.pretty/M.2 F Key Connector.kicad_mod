@@ -701,7 +701,7 @@
 			)
 		)
 	)
-	(fp_text user "Place \"M.2 Mounting Pad\" Footprint from library on Teal (User.3 Layer) X's"
+	(fp_text user "Place grounded \"M.2 Mounting Pad\" footprint from library on Teal (User.3 Layer) X's"
 		(at -0.13 9.4 0)
 		(unlocked yes)
 		(layer "User.3")
