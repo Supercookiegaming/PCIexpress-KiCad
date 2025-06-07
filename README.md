@@ -60,6 +60,11 @@ Updated for KiCad 9.0.1
 * Low profile bracket (with 3D model)
 * Low profile to full height adapter bracker (with 3D model)
 
+**Notes:**
+* Transmit and Recieve pairs on M.2 Symbols are from the perspective of module not the host.
+* Transmit and Recieve pairs on PCIe symbols are from the perspective of the host not the module. this will be changed in the future.
+* Triple check the pinout on your specific M.2 socket to ensure correct wiring.
+
 ### License
 This documentation describes Open Hardware and is licensed under the CERN OHL v.1.2.
 
