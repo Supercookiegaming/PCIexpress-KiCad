@@ -1,6 +1,6 @@
 # PCIexpress-KiCad
 PCI Express™ libraries and templates for KiCad
-Made using guidelines from PCI Express™ Card Electromechanical Specification Rev. 1.2
+Made using guidelines from PCI Express™ Card Electromechanical Specification Rev. 1.2 and PCI Express™ M.2 Specification Revision 1.0
 
 Updated for KiCad 9.0.1
 
