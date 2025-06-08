@@ -1618,6 +1618,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Put AC Coupling Caps on Differential Transmit Lines"
+		(exclude_from_sim no)
+		(at 48.514 90.678 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fc6fd604-2373-46b5-be60-351ec09e3c9d")
+	)
 	(junction
 		(at 93.98 102.87)
 		(diameter 0)
