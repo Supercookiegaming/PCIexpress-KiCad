@@ -399,7 +399,7 @@
 			(pin bidirectional line
 				(at -30.48 -74.93 0)
 				(length 2.54)
-				(name "CLKREQ#"
+				(name "CLKREQ0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -417,7 +417,7 @@
 			(pin bidirectional line
 				(at -30.48 -77.47 0)
 				(length 2.54)
-				(name "PEWAKE#"
+				(name "PEWAKE0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -471,7 +471,7 @@
 			(pin input line
 				(at -30.48 -85.09 0)
 				(length 2.54)
-				(name "RESERVED/PERn0"
+				(name "RESERVED/PERn1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -921,7 +921,7 @@
 			(pin input line
 				(at 31.75 -73.66 180)
 				(length 2.54)
-				(name "PERST#0"
+				(name "PERST0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1606,7 +1606,7 @@
 			(pin bidirectional line
 				(at -20.32 -73.66 0)
 				(length 2.54)
-				(name "CLKREQ#"
+				(name "CLKREQ0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1624,7 +1624,7 @@
 			(pin bidirectional line
 				(at -20.32 -76.2 0)
 				(length 2.54)
-				(name "PEWAKE#"
+				(name "PEWAKE0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1678,7 +1678,7 @@
 			(pin input line
 				(at -20.32 -83.82 0)
 				(length 2.54)
-				(name "PERn0"
+				(name "PERn1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2200,7 +2200,7 @@
 			(pin input line
 				(at 21.59 -72.39 180)
 				(length 2.54)
-				(name "PERST#0"
+				(name "PERST0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2885,7 +2885,7 @@
 			(pin input line
 				(at -22.86 -73.66 0)
 				(length 2.54)
-				(name "REFLCKn"
+				(name "REFLCLKn"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4020,7 +4020,7 @@
 			(pin input line
 				(at -22.86 -73.66 0)
 				(length 2.54)
-				(name "REFLCKn"
+				(name "REFLCLKn"
 					(effects
 						(font
 							(size 1.27 1.27)
