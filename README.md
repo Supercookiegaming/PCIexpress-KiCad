@@ -9,6 +9,7 @@ Updated for KiCad 9.0.1
 ### Contents
 **Templates:**
 * M.2 A Key 22/30mm width, 30/42/60/80/110mm length
+* M.2 M Key 22/30mm width, 30/42/60/80/110mm length
 * x1 cards: full size, half length, low profile
 * x2 cards: full size, half length, low profile
 * x4 cards: full size, half length, low profile
