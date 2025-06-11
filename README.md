@@ -51,8 +51,8 @@ Updated for KiCad 9.0.1
 * K Key M.2 with multiple card outlines
 * L Key M.2 with multiple card outlines
 * M Key M.2 with multiple card outlines
-* A+E Key M.2
-* B+M Key M.2
+* A+E Key M.2 with multiple card outlines
+* B+M Key M.2 with multiple card outlines
 * x1 with multiple card outlines
 * x2 with multiple card outlines
 * x4 with multiple card outlines
