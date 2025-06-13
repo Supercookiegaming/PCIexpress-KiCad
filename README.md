@@ -1,6 +1,6 @@
 # PCIexpress-KiCad
 PCI Express™ libraries and templates for KiCad
-Made using guidelines from PCI Express™ Card Electromechanical Specification Rev. 1.2
+Made using guidelines from PCI Express™ Card Electromechanical Specification Rev. 1.2 and PCI Express™ M.2 Specification Revision 1.0
 
 Updated for KiCad 9.0.1
 
@@ -8,6 +8,12 @@ Updated for KiCad 9.0.1
 
 ### Contents
 **Templates:**
+* M.2 A Key 22/30mm width, 30/42/60/80/110mm length
+* M.2 B Key 22/30mm width, 30/42/60/80/110mm length
+* M.2 M Key 22/30mm width, 30/42/60/80/110mm length
+* M.2 E Key 22/30mm width, 30/42/60/80/110mm length
+* M.2 A+E Key 22/30mm width, 30/42/60/80/110mm length
+* M.2 B+M Key 22/30mm width, 30/42/60/80/110mm length
 * x1 cards: full size, half length, low profile
 * x2 cards: full size, half length, low profile
 * x4 cards: full size, half length, low profile
@@ -49,8 +55,8 @@ Updated for KiCad 9.0.1
 * K Key M.2 with multiple card outlines
 * L Key M.2 with multiple card outlines
 * M Key M.2 with multiple card outlines
-* A+E Key M.2
-* B+M Key M.2
+* A+E Key M.2 with multiple card outlines
+* B+M Key M.2 with multiple card outlines
 * x1 with multiple card outlines
 * x2 with multiple card outlines
 * x4 with multiple card outlines
@@ -62,7 +68,7 @@ Updated for KiCad 9.0.1
 
 **Notes:**
 * Transmit and Recieve pairs on M.2 Symbols are from the perspective of module not the host.
-* Transmit and Recieve pairs on PCIe symbols are from the perspective of the host not the module. this will be changed in the future.
+* Transmit and Recieve pairs on PCIe symbols are from the perspective of the host not the module. This will be changed in the future.
 * Triple check the pinout on your specific M.2 socket to ensure correct wiring.
 
 ### License

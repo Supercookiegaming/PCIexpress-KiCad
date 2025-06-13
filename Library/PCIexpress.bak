@@ -399,7 +399,7 @@
 			(pin bidirectional line
 				(at -30.48 -74.93 0)
 				(length 2.54)
-				(name "CLKREQ#"
+				(name "CLKREQ0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -417,7 +417,7 @@
 			(pin bidirectional line
 				(at -30.48 -77.47 0)
 				(length 2.54)
-				(name "PEWAKE#"
+				(name "PEWAKE0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -471,7 +471,7 @@
 			(pin input line
 				(at -30.48 -85.09 0)
 				(length 2.54)
-				(name "RESERVED/PERn0"
+				(name "RESERVED/PERn1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -921,7 +921,7 @@
 			(pin input line
 				(at 31.75 -73.66 180)
 				(length 2.54)
-				(name "PERST#0"
+				(name "PERST0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1047,7 +1047,7 @@
 			(pin unspecified line
 				(at 31.75 -91.44 180)
 				(length 2.54)
-				(name "UIM_SWPPERST1#"
+				(name "UIM_SWP/PERST1#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1606,7 +1606,7 @@
 			(pin bidirectional line
 				(at -20.32 -73.66 0)
 				(length 2.54)
-				(name "CLKREQ#"
+				(name "CLKREQ0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1624,7 +1624,7 @@
 			(pin bidirectional line
 				(at -20.32 -76.2 0)
 				(length 2.54)
-				(name "PEWAKE#"
+				(name "PEWAKE0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1678,7 +1678,7 @@
 			(pin input line
 				(at -20.32 -83.82 0)
 				(length 2.54)
-				(name "PERn0"
+				(name "PERn1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2200,7 +2200,7 @@
 			(pin input line
 				(at 21.59 -72.39 180)
 				(length 2.54)
-				(name "PERST#0"
+				(name "PERST0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2486,7 +2486,7 @@
 			)
 		)
 		(symbol "M.2_B+M_Key_1_1"
-			(pin bidirectional line
+			(pin output line
 				(at -22.86 -7.62 0)
 				(length 2.54)
 				(name "CONFIG_3"
@@ -2594,7 +2594,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin output line
 				(at -22.86 -33.02 0)
 				(length 2.54)
 				(name "CONFIG_0"
@@ -2885,7 +2885,7 @@
 			(pin input line
 				(at -22.86 -73.66 0)
 				(length 2.54)
-				(name "REFLCKn"
+				(name "REFLCLKn"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2954,7 +2954,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin output line
 				(at -22.86 -93.98 0)
 				(length 2.54)
 				(name "CONFIG_1"
@@ -3008,7 +3008,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin output line
 				(at -22.86 -101.6 0)
 				(length 2.54)
 				(name "CONFIG_2"
@@ -3621,7 +3621,7 @@
 			)
 		)
 		(symbol "M.2_B_Key_1_1"
-			(pin bidirectional line
+			(pin output line
 				(at -22.86 -7.62 0)
 				(length 2.54)
 				(name "CONFIG_3"
@@ -3729,7 +3729,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin output line
 				(at -22.86 -33.02 0)
 				(length 2.54)
 				(name "CONFIG_0"
@@ -4020,7 +4020,7 @@
 			(pin input line
 				(at -22.86 -73.66 0)
 				(length 2.54)
-				(name "REFLCKn"
+				(name "REFLCLKn"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4161,7 +4161,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin output line
 				(at -22.86 -93.98 0)
 				(length 2.54)
 				(name "CONFIG_1"
@@ -4215,7 +4215,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin output line
 				(at -22.86 -101.6 0)
 				(length 2.54)
 				(name "CONFIG_2"
@@ -7830,7 +7830,7 @@
 			(pin bidirectional line
 				(at -30.48 -73.66 0)
 				(length 2.54)
-				(name "CLKREQ#"
+				(name "CLKREQ0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7848,7 +7848,7 @@
 			(pin bidirectional line
 				(at -30.48 -76.2 0)
 				(length 2.54)
-				(name "PEWAKE#"
+				(name "PEWAKE0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8424,7 +8424,7 @@
 			(pin input line
 				(at 34.29 -72.39 180)
 				(length 2.54)
-				(name "PERST#0"
+				(name "PERST0#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8550,7 +8550,7 @@
 			(pin unspecified line
 				(at 34.29 -90.17 180)
 				(length 2.54)
-				(name "UIM_SWPPERST1#"
+				(name "UIM_SWP/PERST1#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -16307,7 +16307,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" "Check PCIe M.2 Electromechanical Specification for Pin Alt mode functions"
+		(property "Note" "Check PCIe M.2 Specification for Pin Alt mode functions. Check your socket pinout for pin functions."
 			(at 0 0 0)
 			(effects
 				(font
@@ -17464,10 +17464,10 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin input line
 				(at 21.59 -92.71 180)
 				(length 2.54)
-				(name "68"
+				(name "SUSCLK"
 					(effects
 						(font
 							(size 1.27 1.27)
