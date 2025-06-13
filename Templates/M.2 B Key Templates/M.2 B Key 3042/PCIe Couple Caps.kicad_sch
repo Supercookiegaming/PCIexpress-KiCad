@@ -239,7 +239,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2016188b-af52-4362-a831-61bc1de993d6")
-		(property "Reference" "C?"
+		(property "Reference" "C1"
 			(at 133.35 99.0599 0)
 			(effects
 				(font
@@ -285,29 +285,19 @@
 			)
 		)
 		(pin "2"
-			(uuid "98d3d031-51e5-4dc4-9601-f0adb771c7a5")
+			(uuid "fd7c53a6-62eb-437f-9c19-63f1fd168145")
 		)
 		(pin "1"
-			(uuid "f4a8151b-28e6-458b-9ce9-69026d55aa9e")
+			(uuid "cf388882-f33d-4ba1-a3ac-cef6d265d2c4")
 		)
 		(instances
-			(project "M.2 A Key 2230"
-				(path "/540e8a72-89ee-4807-aaa2-5d6c6cec308d/6a934661-433b-4364-b7d9-86a36dc44459/424c4cf5-3c3c-49ef-81c3-66eb0f823d39"
+			(project "M.2 B key 3042"
+				(path "/16cc4e00-b4ef-48df-8291-57cc6b27a578/1edef331-dd79-4ff4-b73f-8eb45a64f765/27d77bf0-8499-4672-87f1-05095c3d0a68"
 					(reference "C3")
 					(unit 1)
 				)
-				(path "/540e8a72-89ee-4807-aaa2-5d6c6cec308d/6a934661-433b-4364-b7d9-86a36dc44459/adcd4998-a306-4f2e-b87b-352712eb899b"
-					(reference "C2")
-					(unit 1)
-				)
-			)
-			(project "M.2 A Key"
-				(path "/d21209cf-d1f8-4eb7-aed8-e43843eefa7b/424c4cf5-3c3c-49ef-81c3-66eb0f823d39"
-					(reference "C?")
-					(unit 1)
-				)
-				(path "/d21209cf-d1f8-4eb7-aed8-e43843eefa7b/adcd4998-a306-4f2e-b87b-352712eb899b"
-					(reference "C?")
+				(path "/16cc4e00-b4ef-48df-8291-57cc6b27a578/1edef331-dd79-4ff4-b73f-8eb45a64f765/2cd6dc77-f114-44b1-9704-d60d213c1d42"
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -323,7 +313,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9ef9354-d3cb-4e55-896f-ff5d6835b2b3")
-		(property "Reference" "C?"
+		(property "Reference" "C2"
 			(at 147.32 99.0599 0)
 			(effects
 				(font
@@ -369,29 +359,19 @@
 			)
 		)
 		(pin "2"
-			(uuid "4d0cf464-e4e5-42c4-aa0c-2cf02c39246f")
+			(uuid "f1b6ca2a-abc3-40a9-aca4-4aa9a57976f0")
 		)
 		(pin "1"
-			(uuid "32caa919-de7e-4874-a22c-075e440d708a")
+			(uuid "3cbecc3f-2f4b-44c3-867b-e007058a255c")
 		)
 		(instances
-			(project "M.2 A Key 2230"
-				(path "/540e8a72-89ee-4807-aaa2-5d6c6cec308d/6a934661-433b-4364-b7d9-86a36dc44459/424c4cf5-3c3c-49ef-81c3-66eb0f823d39"
+			(project "M.2 B key 3042"
+				(path "/16cc4e00-b4ef-48df-8291-57cc6b27a578/1edef331-dd79-4ff4-b73f-8eb45a64f765/27d77bf0-8499-4672-87f1-05095c3d0a68"
 					(reference "C4")
 					(unit 1)
 				)
-				(path "/540e8a72-89ee-4807-aaa2-5d6c6cec308d/6a934661-433b-4364-b7d9-86a36dc44459/adcd4998-a306-4f2e-b87b-352712eb899b"
-					(reference "C1")
-					(unit 1)
-				)
-			)
-			(project "M.2 A Key"
-				(path "/d21209cf-d1f8-4eb7-aed8-e43843eefa7b/424c4cf5-3c3c-49ef-81c3-66eb0f823d39"
-					(reference "C?")
-					(unit 1)
-				)
-				(path "/d21209cf-d1f8-4eb7-aed8-e43843eefa7b/adcd4998-a306-4f2e-b87b-352712eb899b"
-					(reference "C?")
+				(path "/16cc4e00-b4ef-48df-8291-57cc6b27a578/1edef331-dd79-4ff4-b73f-8eb45a64f765/2cd6dc77-f114-44b1-9704-d60d213c1d42"
+					(reference "C2")
 					(unit 1)
 				)
 			)
