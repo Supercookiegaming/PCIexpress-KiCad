@@ -68,7 +68,7 @@ Updated for KiCad 9.0.1
 
 **Notes:**
 * Transmit and Recieve pairs on M.2 Symbols are from the perspective of module not the host.
-* Transmit and Recieve pairs on PCIe symbols are from the perspective of the host not the module. This will be changed in the future.
+* Transmit and Recieve pairs on PCIe symbols are from the perspective of module not the host. 
 * Triple check the pinout on your specific M.2 socket to ensure correct wiring.
 
 ### License
