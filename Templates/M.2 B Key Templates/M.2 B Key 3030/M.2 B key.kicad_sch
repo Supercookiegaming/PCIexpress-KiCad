@@ -182,7 +182,7 @@
 				)
 			)
 			(symbol "M.2_B_Key_1_1"
-				(pin bidirectional line
+				(pin output line
 					(at -22.86 -7.62 0)
 					(length 2.54)
 					(name "CONFIG_3"
@@ -290,7 +290,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin output line
 					(at -22.86 -33.02 0)
 					(length 2.54)
 					(name "CONFIG_0"
@@ -722,7 +722,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin output line
 					(at -22.86 -93.98 0)
 					(length 2.54)
 					(name "CONFIG_1"
@@ -776,7 +776,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin output line
 					(at -22.86 -101.6 0)
 					(length 2.54)
 					(name "CONFIG_2"

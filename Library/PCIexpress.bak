@@ -19252,10 +19252,10 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -15.24 -22.86 0)
 				(length 3.81)
-				(name "~{TRST}"
+				(name "TRST#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -19291,7 +19291,7 @@
 			(pin bidirectional line
 				(at -15.24 -27.94 0)
 				(length 3.81)
-				(name "~{WAKE}"
+				(name "WAKE#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -19306,10 +19306,10 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at -15.24 -33.02 0)
 				(length 3.81)
-				(name "RSVD"
+				(name "CLKREQ#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -19399,7 +19399,7 @@
 			(pin passive line
 				(at -15.24 -45.72 0)
 				(length 3.81)
-				(name "~{PRSNT2}"
+				(name "PRSNT2#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -19435,7 +19435,7 @@
 			(pin passive line
 				(at 15.24 -2.54 180)
 				(length 3.81)
-				(name "~{PRSNT1}"
+				(name "PRSNT1#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -19504,7 +19504,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 15.24 -12.7 180)
 				(length 3.81)
 				(name "TCK"
@@ -19522,7 +19522,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 15.24 -15.24 180)
 				(length 3.81)
 				(name "TDI"
@@ -19540,7 +19540,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 15.24 -17.78 180)
 				(length 3.81)
 				(name "TDO"
@@ -19558,7 +19558,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 15.24 -20.32 180)
 				(length 3.81)
 				(name "TMS"
@@ -19615,7 +19615,7 @@
 			(pin input line
 				(at 15.24 -27.94 180)
 				(length 3.81)
-				(name "~{PERST}"
+				(name "PERST#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -19983,10 +19983,10 @@
 					)
 				)
 			)
-			(pin open_collector line
+			(pin input line
 				(at -15.24 -12.7 0)
 				(length 3.81)
-				(name "SMCLK"
+				(name "SMBCLK"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -20001,10 +20001,10 @@
 					)
 				)
 			)
-			(pin open_collector line
+			(pin bidirectional line
 				(at -15.24 -15.24 0)
 				(length 3.81)
-				(name "SMDAT"
+				(name "SMBDAT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -20055,10 +20055,10 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -15.24 -22.86 0)
 				(length 3.81)
-				(name "~{TRST}"
+				(name "TRST#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -20091,10 +20091,10 @@
 					)
 				)
 			)
-			(pin open_collector line
+			(pin bidirectional line
 				(at -15.24 -27.94 0)
 				(length 3.81)
-				(name "~{WAKE}"
+				(name "WAKE#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -20109,10 +20109,10 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at -15.24 -33.02 0)
 				(length 3.81)
-				(name "RSVD"
+				(name "CLKREQ#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -20202,7 +20202,7 @@
 			(pin passive line
 				(at -15.24 -45.72 0)
 				(length 3.81)
-				(name "~{PRSNT2}"
+				(name "PRSNT2#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -20433,10 +20433,10 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin output line
 				(at -15.24 -81.28 0)
 				(length 3.81)
-				(name "RSVD"
+				(name "PWRBRK#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -20454,7 +20454,7 @@
 			(pin passive line
 				(at -15.24 -83.82 0)
 				(length 3.81)
-				(name "~{PRSNT2}"
+				(name "PRSNT2#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -20760,7 +20760,7 @@
 			(pin passive line
 				(at -15.24 -129.54 0)
 				(length 3.81)
-				(name "~{PRSNT2}"
+				(name "PRSNT2#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -21354,7 +21354,7 @@
 			(pin passive line
 				(at -15.24 -215.9 0)
 				(length 3.81)
-				(name "~{PRSNT2}"
+				(name "PRSNT2#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -21390,7 +21390,7 @@
 			(pin passive line
 				(at 15.24 -2.54 180)
 				(length 3.81)
-				(name "~{PRSNT1}"
+				(name "PRSNT1#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -21459,7 +21459,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 15.24 -12.7 180)
 				(length 3.81)
 				(name "TCK"
@@ -21477,7 +21477,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 15.24 -15.24 180)
 				(length 3.81)
 				(name "TDI"
@@ -21495,7 +21495,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 15.24 -17.78 180)
 				(length 3.81)
 				(name "TDO"
@@ -21513,7 +21513,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 15.24 -20.32 180)
 				(length 3.81)
 				(name "TMS"
@@ -21567,10 +21567,10 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 15.24 -27.94 180)
 				(length 3.81)
-				(name "~{PERST}"
+				(name "PERST#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -22890,7 +22890,7 @@
 			)
 		)
 		(property "Footprint" "PCIexpress:PCIexpress_x2"
-			(at 0 5.842 0)
+			(at 0 -8.636 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23124,10 +23124,10 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -15.24 -22.86 0)
 				(length 3.81)
-				(name "~{TRST}"
+				(name "TRST#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23163,7 +23163,7 @@
 			(pin bidirectional line
 				(at -15.24 -27.94 0)
 				(length 3.81)
-				(name "~{WAKE}"
+				(name "WAKE#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23178,10 +23178,10 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at -15.24 -33.02 0)
 				(length 3.81)
-				(name "RSVD"
+				(name "CLKREQ#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23271,7 +23271,7 @@
 			(pin passive line
 				(at -15.24 -45.72 0)
 				(length 3.81)
-				(name "~{PRSNT2}"
+				(name "PRSNT2#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23379,7 +23379,7 @@
 			(pin passive line
 				(at 15.24 -2.54 180)
 				(length 3.81)
-				(name "~{PRSNT1}"
+				(name "PRSNT1#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23448,7 +23448,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 15.24 -12.7 180)
 				(length 3.81)
 				(name "TCK"
@@ -23466,7 +23466,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 15.24 -15.24 180)
 				(length 3.81)
 				(name "TDI"
@@ -23484,7 +23484,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 15.24 -17.78 180)
 				(length 3.81)
 				(name "TDO"
@@ -23502,7 +23502,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 15.24 -20.32 180)
 				(length 3.81)
 				(name "TMS"
@@ -23559,7 +23559,7 @@
 			(pin input line
 				(at 15.24 -27.94 180)
 				(length 3.81)
-				(name "~{PERST}"
+				(name "PERST#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23879,8 +23879,8 @@
 		)
 		(symbol "PCIexpress_x4_1_1"
 			(rectangle
-				(start 11.43 0)
-				(end -11.43 -88.9)
+				(start -11.43 0)
+				(end 11.43 -88.9)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -23961,10 +23961,10 @@
 					)
 				)
 			)
-			(pin open_collector line
+			(pin input line
 				(at -15.24 -12.7 0)
 				(length 3.81)
-				(name "SMCLK"
+				(name "SMBCLK"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -23979,10 +23979,10 @@
 					)
 				)
 			)
-			(pin open_collector line
+			(pin bidirectional line
 				(at -15.24 -15.24 0)
 				(length 3.81)
-				(name "SMDAT"
+				(name "SMBDAT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -24033,10 +24033,10 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -15.24 -22.86 0)
 				(length 3.81)
-				(name "~{TRST}"
+				(name "TRST#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -24069,10 +24069,10 @@
 					)
 				)
 			)
-			(pin open_collector line
+			(pin bidirectional line
 				(at -15.24 -27.94 0)
 				(length 3.81)
-				(name "~{WAKE}"
+				(name "WAKE#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -24087,10 +24087,10 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at -15.24 -33.02 0)
 				(length 3.81)
-				(name "RSVD"
+				(name "CLKREQ#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -24180,7 +24180,7 @@
 			(pin passive line
 				(at -15.24 -45.72 0)
 				(length 3.81)
-				(name "~{PRSNT2}"
+				(name "PRSNT2#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -24411,10 +24411,10 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin output line
 				(at -15.24 -81.28 0)
 				(length 3.81)
-				(name "RSVD"
+				(name "PWRBRK#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -24432,7 +24432,7 @@
 			(pin passive line
 				(at -15.24 -83.82 0)
 				(length 3.81)
-				(name "~{PRSNT2}"
+				(name "PRSNT2#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -24468,7 +24468,7 @@
 			(pin passive line
 				(at 15.24 -2.54 180)
 				(length 3.81)
-				(name "~{PRSNT1}"
+				(name "PRSNT1#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -24537,7 +24537,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 15.24 -12.7 180)
 				(length 3.81)
 				(name "TCK"
@@ -24555,7 +24555,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 15.24 -15.24 180)
 				(length 3.81)
 				(name "TDI"
@@ -24573,7 +24573,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 15.24 -17.78 180)
 				(length 3.81)
 				(name "TDO"
@@ -24591,7 +24591,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 15.24 -20.32 180)
 				(length 3.81)
 				(name "TMS"
@@ -24648,7 +24648,7 @@
 			(pin output line
 				(at 15.24 -27.94 180)
 				(length 3.81)
-				(name "~{PERST}"
+				(name "PERST#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -25248,10 +25248,10 @@
 					)
 				)
 			)
-			(pin open_collector line
+			(pin input line
 				(at -15.24 -12.7 0)
 				(length 3.81)
-				(name "SMCLK"
+				(name "SMBCLK"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -25266,10 +25266,10 @@
 					)
 				)
 			)
-			(pin open_collector line
+			(pin bidirectional line
 				(at -15.24 -15.24 0)
 				(length 3.81)
-				(name "SMDAT"
+				(name "SMBDAT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -25320,10 +25320,10 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -15.24 -22.86 0)
 				(length 3.81)
-				(name "~{TRST}"
+				(name "TRST#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -25356,10 +25356,10 @@
 					)
 				)
 			)
-			(pin open_collector line
+			(pin bidirectional line
 				(at -15.24 -27.94 0)
 				(length 3.81)
-				(name "~{WAKE}"
+				(name "WAKE#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -25374,10 +25374,10 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at -15.24 -33.02 0)
 				(length 3.81)
-				(name "RSVD"
+				(name "CLKREQ#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -25467,7 +25467,7 @@
 			(pin passive line
 				(at -15.24 -45.72 0)
 				(length 3.81)
-				(name "~{PRSNT2}"
+				(name "PRSNT2#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -25698,10 +25698,10 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin output line
 				(at -15.24 -81.28 0)
 				(length 3.81)
-				(name "RSVD"
+				(name "PWRBRK#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -25719,7 +25719,7 @@
 			(pin passive line
 				(at -15.24 -83.82 0)
 				(length 3.81)
-				(name "~{PRSNT2}"
+				(name "PRSNT2#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -26025,7 +26025,7 @@
 			(pin passive line
 				(at -15.24 -129.54 0)
 				(length 3.81)
-				(name "~{PRSNT2}"
+				(name "PRSNT2#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -26061,7 +26061,7 @@
 			(pin passive line
 				(at 15.24 -2.54 180)
 				(length 3.81)
-				(name "~{PRSNT1}"
+				(name "PRSNT1#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -26130,7 +26130,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 15.24 -12.7 180)
 				(length 3.81)
 				(name "TCK"
@@ -26148,7 +26148,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 15.24 -15.24 180)
 				(length 3.81)
 				(name "TDI"
@@ -26166,7 +26166,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 15.24 -17.78 180)
 				(length 3.81)
 				(name "TDO"
@@ -26184,7 +26184,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 15.24 -20.32 180)
 				(length 3.81)
 				(name "TMS"
@@ -26241,7 +26241,7 @@
 			(pin output line
 				(at 15.24 -27.94 180)
 				(length 3.81)
-				(name "~{PERST}"
+				(name "PERST#"
 					(effects
 						(font
 							(size 1.27 1.27)

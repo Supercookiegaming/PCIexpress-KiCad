@@ -239,7 +239,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2016188b-af52-4362-a831-61bc1de993d6")
-		(property "Reference" "C?"
+		(property "Reference" "C2"
 			(at 133.35 99.0599 0)
 			(effects
 				(font
@@ -323,7 +323,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9ef9354-d3cb-4e55-896f-ff5d6835b2b3")
-		(property "Reference" "C?"
+		(property "Reference" "C1"
 			(at 147.32 99.0599 0)
 			(effects
 				(font
