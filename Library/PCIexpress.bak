@@ -14,7 +14,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "M.2 A+E Key Connector"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1149,7 +1149,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "M.2 A Key Connector"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2428,7 +2428,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "M.2 B+M Key Connector"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3563,7 +3563,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "M.2 B Key Connector"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4842,7 +4842,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "M.2 C Key Connector"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6112,7 +6112,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "M.2 D Key Connector"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7382,7 +7382,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "M.2 E Key Connector"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8652,7 +8652,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "M.2 F Key Connector"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9922,7 +9922,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "M.2 G Key Connector"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11192,7 +11192,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "M.2 H Key Connector"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12462,7 +12462,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "M.2 J Key Connector"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13732,7 +13732,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "M.2 K Key Connector"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15002,7 +15002,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "M.2 L Key Connector"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16272,7 +16272,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "M.2 M Key Connector"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19038,7 +19038,7 @@
 			)
 		)
 		(property "Footprint" "PCIexpress:PCIexpress_x1"
-			(at 0 6.604 0)
+			(at 0 -8.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)

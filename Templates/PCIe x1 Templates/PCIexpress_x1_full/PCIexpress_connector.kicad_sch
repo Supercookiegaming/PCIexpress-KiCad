@@ -94,7 +94,7 @@
 				)
 			)
 			(property "Footprint" "PCIexpress:PCIexpress_x1"
-				(at 0 -24.13 0)
+				(at 0 -8.382 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -164,7 +164,7 @@
 						(type background)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at -15.24 -2.54 0)
 					(length 3.81)
 					(name "+12V"
@@ -182,7 +182,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at -15.24 -5.08 0)
 					(length 3.81)
 					(name "+12V"
@@ -200,7 +200,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at -15.24 -7.62 0)
 					(length 3.81)
 					(name "+12V"
@@ -218,7 +218,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at -15.24 -10.16 0)
 					(length 3.81)
 					(name "GND"
@@ -236,10 +236,10 @@
 						)
 					)
 				)
-				(pin open_collector line
+				(pin input line
 					(at -15.24 -12.7 0)
 					(length 3.81)
-					(name "SMCLK"
+					(name "SMBCLK"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -254,10 +254,10 @@
 						)
 					)
 				)
-				(pin open_collector line
+				(pin bidirectional line
 					(at -15.24 -15.24 0)
 					(length 3.81)
-					(name "SMDAT"
+					(name "SMBDAT"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -272,7 +272,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at -15.24 -17.78 0)
 					(length 3.81)
 					(name "GND"
@@ -290,7 +290,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at -15.24 -20.32 0)
 					(length 3.81)
 					(name "+3.3V"
@@ -308,10 +308,10 @@
 						)
 					)
 				)
-				(pin output line
+				(pin input line
 					(at -15.24 -22.86 0)
 					(length 3.81)
-					(name "~{TRST}"
+					(name "TRST#"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -326,7 +326,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at -15.24 -25.4 0)
 					(length 3.81)
 					(name "+3.3V_aux"
@@ -344,10 +344,10 @@
 						)
 					)
 				)
-				(pin open_collector line
+				(pin bidirectional line
 					(at -15.24 -27.94 0)
 					(length 3.81)
-					(name "~{WAKE}"
+					(name "WAKE#"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -362,10 +362,10 @@
 						)
 					)
 				)
-				(pin no_connect line
+				(pin bidirectional line
 					(at -15.24 -33.02 0)
 					(length 3.81)
-					(name "RSVD"
+					(name "CLKREQ#"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -380,7 +380,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at -15.24 -35.56 0)
 					(length 3.81)
 					(name "GND"
@@ -398,10 +398,10 @@
 						)
 					)
 				)
-				(pin output line
+				(pin input line
 					(at -15.24 -38.1 0)
 					(length 3.81)
-					(name "PETp0"
+					(name "PERp0"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -416,10 +416,10 @@
 						)
 					)
 				)
-				(pin output line
+				(pin input line
 					(at -15.24 -40.64 0)
 					(length 3.81)
-					(name "PETn0"
+					(name "PERn0"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -434,7 +434,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at -15.24 -43.18 0)
 					(length 3.81)
 					(name "GND"
@@ -455,7 +455,7 @@
 				(pin passive line
 					(at -15.24 -45.72 0)
 					(length 3.81)
-					(name "~{PRSNT2}"
+					(name "PRSNT2#"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -470,7 +470,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at -15.24 -48.26 0)
 					(length 3.81)
 					(name "GND"
@@ -491,7 +491,7 @@
 				(pin passive line
 					(at 15.24 -2.54 180)
 					(length 3.81)
-					(name "~{PRSNT1}"
+					(name "PRSNT1#"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -506,7 +506,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at 15.24 -5.08 180)
 					(length 3.81)
 					(name "+12V"
@@ -524,7 +524,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at 15.24 -7.62 180)
 					(length 3.81)
 					(name "+12V"
@@ -542,7 +542,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at 15.24 -10.16 180)
 					(length 3.81)
 					(name "GND"
@@ -560,7 +560,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin input line
 					(at 15.24 -12.7 180)
 					(length 3.81)
 					(name "TCK"
@@ -578,7 +578,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin input line
 					(at 15.24 -15.24 180)
 					(length 3.81)
 					(name "TDI"
@@ -596,7 +596,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at 15.24 -17.78 180)
 					(length 3.81)
 					(name "TDO"
@@ -614,7 +614,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin input line
 					(at 15.24 -20.32 180)
 					(length 3.81)
 					(name "TMS"
@@ -632,7 +632,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at 15.24 -22.86 180)
 					(length 3.81)
 					(name "+3.3V"
@@ -650,7 +650,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at 15.24 -25.4 180)
 					(length 3.81)
 					(name "+3.3V"
@@ -668,10 +668,10 @@
 						)
 					)
 				)
-				(pin output line
+				(pin input line
 					(at 15.24 -27.94 180)
 					(length 3.81)
-					(name "~{PERST}"
+					(name "PERST#"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -686,7 +686,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at 15.24 -33.02 180)
 					(length 3.81)
 					(name "GND"
@@ -704,7 +704,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin input line
 					(at 15.24 -35.56 180)
 					(length 3.81)
 					(name "REFCLK+"
@@ -722,7 +722,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin input line
 					(at 15.24 -38.1 180)
 					(length 3.81)
 					(name "REFCLK-"
@@ -740,7 +740,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at 15.24 -40.64 180)
 					(length 3.81)
 					(name "GND"
@@ -758,10 +758,10 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at 15.24 -43.18 180)
 					(length 3.81)
-					(name "PERp0"
+					(name "PETp0"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -776,10 +776,10 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at 15.24 -45.72 180)
 					(length 3.81)
-					(name "PERn0"
+					(name "PETn0"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -794,7 +794,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at 15.24 -48.26 180)
 					(length 3.81)
 					(name "GND"

@@ -124,7 +124,7 @@
 					)
 				)
 			)
-			(property "Value" ""
+			(property "Value" "M.2 A+E Key Connector"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2855,7 +2855,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "M.2 A+E Key Connector"
 			(at 126.365 45.72 0)
 			(effects
 				(font
