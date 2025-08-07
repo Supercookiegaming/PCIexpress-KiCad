@@ -53,7 +53,7 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
+	(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 	(fp_rect
 		(start -9.925 -0.94)
 		(end 9.925 1.11)
@@ -859,355 +859,355 @@
 			)
 		)
 	)
-	(pad "1" smd rect
+	(pad "1" connect rect
 		(at 9.25 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "3d4ee158-1c68-4654-ac1b-db6aadfd4193")
 	)
-	(pad "2" smd rect
+	(pad "2" connect rect
 		(at 9 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "ab2a0152-3f56-4468-b760-b2c3162a4a30")
 	)
-	(pad "3" smd rect
+	(pad "3" connect rect
 		(at 8.75 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "3181608a-b4fd-41c4-ad79-0ccd5f672c07")
 	)
-	(pad "4" smd rect
+	(pad "4" connect rect
 		(at 8.5 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "dbd26d0f-59dc-4418-a777-ae35712ace8e")
 	)
-	(pad "5" smd rect
+	(pad "5" connect rect
 		(at 8.25 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "4ca3510b-5b02-4795-8f25-aa28137af661")
 	)
-	(pad "6" smd rect
+	(pad "6" connect rect
 		(at 8 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "e70dc44a-d7a9-4c5f-ad31-e2db7cef2b01")
 	)
-	(pad "7" smd rect
+	(pad "7" connect rect
 		(at 7.75 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "a546dcda-fa2a-4818-9ddf-f8d69a756a01")
 	)
-	(pad "16" smd rect
+	(pad "16" connect rect
 		(at 5.5 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "019c0c47-d845-4774-9829-6a94f121e113")
 	)
-	(pad "17" smd rect
+	(pad "17" connect rect
 		(at 5.25 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "e202819c-6b58-4bbb-a466-f98d16f06a93")
 	)
-	(pad "18" smd rect
+	(pad "18" connect rect
 		(at 5 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "00fcddd2-3fbe-45d8-be0a-b5057cf778ed")
 	)
-	(pad "19" smd rect
+	(pad "19" connect rect
 		(at 4.75 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "c7813b30-e4e0-4fa9-8625-838aa58df752")
 	)
-	(pad "20" smd rect
+	(pad "20" connect rect
 		(at 4.5 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "a4769f35-04a3-40ec-817b-0b904951af83")
 	)
-	(pad "21" smd rect
+	(pad "21" connect rect
 		(at 4.25 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "7683cb9e-862f-41ee-8d02-566dab1fde3b")
 	)
-	(pad "22" smd rect
+	(pad "22" connect rect
 		(at 4 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "54bbb1f3-fb64-4c37-948f-0d395defb250")
 	)
-	(pad "23" smd rect
+	(pad "23" connect rect
 		(at 3.75 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "125472cc-0116-4c74-a82f-783bef924c1d")
 	)
-	(pad "32" smd rect
+	(pad "32" connect rect
 		(at 1.5 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "444c9c13-16b5-4ccd-9ee4-e9c9dc60ac71")
 	)
-	(pad "33" smd rect
+	(pad "33" connect rect
 		(at 1.25 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "02a93394-a9cc-49be-9f42-8076ec4c15f6")
 	)
-	(pad "34" smd rect
+	(pad "34" connect rect
 		(at 1 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "6bf64faf-eb45-4407-9665-fcfc2c51ce71")
 	)
-	(pad "35" smd rect
+	(pad "35" connect rect
 		(at 0.75 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "d1b6c7db-5061-41ea-be98-b2acdd54895f")
 	)
-	(pad "36" smd rect
+	(pad "36" connect rect
 		(at 0.5 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "6fd7a7ff-2817-4f26-96a3-b34553a11f72")
 	)
-	(pad "37" smd rect
+	(pad "37" connect rect
 		(at 0.25 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "c0e43607-94f8-496b-acdd-5f1261bbef75")
 	)
-	(pad "38" smd rect
+	(pad "38" connect rect
 		(at 0 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "d038712e-1cb1-4579-a428-72b9632d1724")
 	)
-	(pad "39" smd rect
+	(pad "39" connect rect
 		(at -0.25 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "58bd3a0d-6f28-4dfa-8d23-88293eb4df29")
 	)
-	(pad "40" smd rect
+	(pad "40" connect rect
 		(at -0.5 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "bd6abd44-447b-40f1-804c-ca0dcfd4786f")
 	)
-	(pad "41" smd rect
+	(pad "41" connect rect
 		(at -0.75 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "94b6194c-d33a-4abf-96df-123600e22663")
 	)
-	(pad "42" smd rect
+	(pad "42" connect rect
 		(at -1 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "aed1104b-7d87-4ea4-a09a-b232ca78fd39")
 	)
-	(pad "43" smd rect
+	(pad "43" connect rect
 		(at -1.25 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "ddb2d6f3-6a24-4d7b-86c2-65a0849daba6")
 	)
-	(pad "44" smd rect
+	(pad "44" connect rect
 		(at -1.5 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "f0875a53-5846-49e6-bdf5-6b6471426377")
 	)
-	(pad "45" smd rect
+	(pad "45" connect rect
 		(at -1.75 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "98c1f934-5c06-43f7-9ee4-cc30d40d97b2")
 	)
-	(pad "46" smd rect
+	(pad "46" connect rect
 		(at -2 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "72767cf5-5bef-4551-81b6-5e1b0a100e2e")
 	)
-	(pad "47" smd rect
+	(pad "47" connect rect
 		(at -2.25 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "87ce3df8-c567-4963-99e5-a5fb4228b918")
 	)
-	(pad "48" smd rect
+	(pad "48" connect rect
 		(at -2.5 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "ccb9321a-a9d5-4c50-9dfe-aa8984736e30")
 	)
-	(pad "49" smd rect
+	(pad "49" connect rect
 		(at -2.75 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "a77f0c5c-f780-42c0-9f30-2ec609724ac3")
 	)
-	(pad "50" smd rect
+	(pad "50" connect rect
 		(at -3 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "4b1949eb-32cf-4864-a6df-5e147b0e825e")
 	)
-	(pad "51" smd rect
+	(pad "51" connect rect
 		(at -3.25 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "aea5f8db-3d7c-43cc-afc0-4d2b72483424")
 	)
-	(pad "52" smd rect
+	(pad "52" connect rect
 		(at -3.5 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "9d2dd827-0497-4320-96e3-476c99a6c63b")
 	)
-	(pad "53" smd rect
+	(pad "53" connect rect
 		(at -3.75 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "6cc90286-dbd1-4a79-bb36-383fb71ab547")
 	)
-	(pad "54" smd rect
+	(pad "54" connect rect
 		(at -4 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "dca8c69b-0ebe-4726-a60f-29d5e32c3fbb")
 	)
-	(pad "55" smd rect
+	(pad "55" connect rect
 		(at -4.25 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "533f07d0-724f-4bc5-a378-3a05451b7ae4")
 	)
-	(pad "56" smd rect
+	(pad "56" connect rect
 		(at -4.5 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "30fd98f9-0cfd-4e4c-8cce-6ece9c46c99c")
 	)
-	(pad "57" smd rect
+	(pad "57" connect rect
 		(at -4.75 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "6f2ada47-1cc8-4836-83c9-c4649a1c89a5")
 	)
-	(pad "58" smd rect
+	(pad "58" connect rect
 		(at -5 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "14cbeec0-3020-42d1-be12-fb85df50f50e")
 	)
-	(pad "59" smd rect
+	(pad "59" connect rect
 		(at -5.25 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "cbe873bf-d11c-4792-b0bd-a6d507780af0")
 	)
-	(pad "60" smd rect
+	(pad "60" connect rect
 		(at -5.5 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "f2e08787-2ab6-4fd7-8913-d3197583f780")
 	)
-	(pad "61" smd rect
+	(pad "61" connect rect
 		(at -5.75 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "a627ab2c-efef-466d-b8e4-49e2ed250886")
 	)
-	(pad "62" smd rect
+	(pad "62" connect rect
 		(at -6 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "80b17273-ce6a-4bd4-9bb0-abb9535d1006")
 	)
-	(pad "63" smd rect
+	(pad "63" connect rect
 		(at -6.25 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "b8d2cf28-ca14-4cc2-999f-7ab93dea54f9")
 	)
-	(pad "64" smd rect
+	(pad "64" connect rect
 		(at -6.5 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "ef9d0a1c-6356-4f87-a3ec-e350ca82843b")
 	)
-	(pad "65" smd rect
+	(pad "65" connect rect
 		(at -6.75 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "d048e7f8-3541-4a32-a7d7-7b0ff5e252f6")
 	)
-	(pad "66" smd rect
+	(pad "66" connect rect
 		(at -7 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "473c7e8a-65fd-4911-9eb7-10e353b343b4")
 	)
-	(pad "67" smd rect
+	(pad "67" connect rect
 		(at -7.25 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "a64604f2-f8ce-484c-b214-1dead7340d77")
 	)
-	(pad "68" smd rect
+	(pad "68" connect rect
 		(at -7.5 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "14de7a5a-588b-41fc-80c2-92c8d927295b")
 	)
-	(pad "69" smd rect
+	(pad "69" connect rect
 		(at -7.75 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "99701112-b2a5-4f95-8556-198358f00cdb")
 	)
-	(pad "70" smd rect
+	(pad "70" connect rect
 		(at -8 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "c3ef7a3e-8238-438e-bf3e-1d012e57f5df")
 	)
-	(pad "71" smd rect
+	(pad "71" connect rect
 		(at -8.25 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "e3e7b4c2-36bc-42a0-b859-52669aef63f3")
 	)
-	(pad "72" smd rect
+	(pad "72" connect rect
 		(at -8.5 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "332fbe63-eaf0-4a3e-8edc-9813e23824ca")
 	)
-	(pad "73" smd rect
+	(pad "73" connect rect
 		(at -8.75 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")
 		(uuid "c06572c1-d764-4172-b897-7d0b4b14fdd5")
 	)
-	(pad "74" smd rect
+	(pad "74" connect rect
 		(at -9 -0.29 180)
 		(size 0.35 2.2)
 		(layers "B.Cu")
 		(uuid "424d8695-af46-4f73-b82c-12353796f215")
 	)
-	(pad "75" smd rect
+	(pad "75" connect rect
 		(at -9.25 -0.04 180)
 		(size 0.35 1.7)
 		(layers "F.Cu")

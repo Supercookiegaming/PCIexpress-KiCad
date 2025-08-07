@@ -73,6 +73,7 @@
 		(property pad_prop_castellated)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(zone_connect 2)
 		(uuid "cc590ad5-81d2-46aa-b4dc-4b10a598f102")
 		(padstack
 			(mode front_inner_back)

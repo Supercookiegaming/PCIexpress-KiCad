@@ -52,7 +52,7 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
+	(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 	(fp_poly
 		(pts
 			(xy -11.8 -4.5) (xy -11.8 -8) (xy -3.8 -8) (xy -3.8 -4.5)
